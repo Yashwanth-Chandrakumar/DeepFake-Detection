@@ -1,5 +1,5 @@
 # DeepDetect - DeepFake-Detection
 A deepfake detection and monitoring tool
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Demo Video](https://github.com/Yashwanth-Chandrakumar/DeepFake-Detection/blob/main/ezgif-5-721585d856.gif)]
 
